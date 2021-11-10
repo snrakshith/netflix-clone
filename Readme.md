@@ -1,6 +1,6 @@
 # A Netflix Web Clone
 
-## Technical Features: (of Netflix Clone)
+## Technical Features: 
 
 - Material UI
 - Context API
